@@ -1,7 +1,13 @@
 {
   "New-V": {
-    "ues": "yes",
+    "ues": "no",
     "V": "0.2",
     "D": "idk"
+  },
+  "screen": {
+    "appearance_mode": "dark",
+    "default_color_theme": "blue",
+    "title": "Cat-Ball",
+    "geometry": "400x240"
   }
 }
