@@ -1,0 +1,7 @@
+{
+  "admin": {
+    "dev": "True",
+    "Username": "admin",
+    "Password": "admin"
+  }
+}
