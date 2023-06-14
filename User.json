@@ -3,5 +3,11 @@
     "dev": "True",
     "Username": "admin",
     "Password": "admin"
+  },
+
+  "test": {
+    "dev": "False",
+    "Username": "test",
+    "Password": "admin"
   }
 }
